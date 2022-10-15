@@ -1,0 +1,53 @@
+.header {
+    height: 156px;
+    margin: 0px auto;
+    background-color: aquamarine;
+}
+
+.header-users {
+    height: 35px;
+    width: 1050px;
+    background-color: antiquewhite;
+    position: relative;
+    margin: 0px auto;
+}
+
+.header-users-box {
+    display: flex;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 12px;
+}
+
+.header-signup-link {
+    color: rgb(95 0 128);
+    text-decoration: none;
+}
+
+.header-login-link {
+    color: #333;
+    text-decoration: none;
+}
+
+.header-cs-link {
+    color: #333;
+    text-decoration: none;
+}
+
+.header-div-bar {
+    width: 1px;
+    height: 13px;
+    background-color: rgb(217, 217, 217);
+    margin: 0px 12px;
+}
+
+.header-cs-img {
+    width: 8px;
+    height: 5px;
+    margin-left: 5px;
+    margin-bottom: 1px;
+    background-image: url(https://res.kurly.com/pc/ico/1908/ico_down_16x10.png);
+    display: inline-block;
+    background-size: cover;
+}
