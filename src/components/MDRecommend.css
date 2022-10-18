@@ -1,0 +1,49 @@
+.md-recommend {
+    width: 1050px;
+    margin: 0px auto;
+    padding: 40px 0px;
+}
+
+.md-recommend-title {
+    display: flex;
+    margin-bottom: 27px;
+}
+
+.md-recommend-title div {
+    margin: 0px auto;
+    padding: 8px 0px 8px 8px;
+    font-size: 28px;
+    letter-spacing: -0.26px;
+    font-weight: 500;
+}
+
+.md-recommend-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+}
+
+.md-recommend-list li {
+    list-style: none;
+}
+
+.md-recommend-btn {
+    padding: 10px 20px;
+    border-radius: 22px;
+    border: none;
+    margin: 0px 5px 20px;
+    font-size: 14px;
+    height: 40px;
+    background-color: rgb(247, 247, 247);
+    cursor: pointer;
+    line-height: 16px;
+}
+
+.md-recommend-btn:hover {
+    background-color: rgb(247, 243, 248);
+    color: rgb(95, 0, 128);
+}
+
+.md-recommend-product {
+    margin: 0px;
+}

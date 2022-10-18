@@ -1,0 +1,9 @@
+.sub-banner {
+    width: 1050px;
+    margin: 0px auto;
+    padding: 40px 0px;
+}
+
+.sub-banner img {
+    height: 140px;
+}
