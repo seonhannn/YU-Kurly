@@ -17,7 +17,7 @@ function ProductList() {
                 navigation
                 >
                 <SwiperSlide className='product-slide'>
-                    <Link to={''} className='product-slide-link'>
+                    <Link to={'/Detail'} className='product-slide-link'>
                         <div className="product-img-box">
                             <img src="https://img-cf.kurly.com/cdn-cgi/image/width=400,format=auto/shop/data/goods/1648102709234l0.jpg" alt="recommend product"></img>
                             <button className="product-cart-btn">
@@ -35,7 +35,7 @@ function ProductList() {
                     </Link>
                 </SwiperSlide>
                 <SwiperSlide className='product-slide'>
-                    <Link to={''} className='product-slide-link'>
+                    <Link to={'/Detail'} className='product-slide-link'>
                         <div className="product-img-box">
                             <img src="https://img-cf.kurly.com/cdn-cgi/image/width=400,format=auto/shop/data/goods/1648102709234l0.jpg" alt="recommend product"></img>
                             <button className="product-cart-btn">
@@ -53,7 +53,7 @@ function ProductList() {
                     </Link>
                 </SwiperSlide>
                 <SwiperSlide className='product-slide'>
-                    <Link to={''} className='product-slide-link'>
+                    <Link to={'/Detail'} className='product-slide-link'>
                         <div className="product-img-box">
                             <img src="https://img-cf.kurly.com/cdn-cgi/image/width=400,format=auto/shop/data/goods/1648102709234l0.jpg" alt="recommend product"></img>
                             <button className="product-cart-btn">
@@ -71,7 +71,7 @@ function ProductList() {
                     </Link>
                 </SwiperSlide>
                 <SwiperSlide className='product-slide'>
-                    <Link to={''} className='product-slide-link'>
+                    <Link to={'/Detail'} className='product-slide-link'>
                         <div className="product-img-box">
                             <img src="https://img-cf.kurly.com/cdn-cgi/image/width=400,format=auto/shop/data/goods/1648102709234l0.jpg" alt="recommend product"></img>
                             <button className="product-cart-btn">
@@ -89,7 +89,7 @@ function ProductList() {
                     </Link>
                 </SwiperSlide>
                 <SwiperSlide className='product-slide'>
-                    <Link to={''} className='product-slide-link'>
+                    <Link to={'/Detail'} className='product-slide-link'>
                         <div className="product-img-box">
                             <img src="https://img-cf.kurly.com/cdn-cgi/image/width=400,format=auto/shop/data/goods/1648102709234l0.jpg" alt="recommend product"></img>
                             <button className="product-cart-btn">
@@ -107,7 +107,7 @@ function ProductList() {
                     </Link>
                 </SwiperSlide>
                 <SwiperSlide className='product-slide'>
-                    <Link to={''} className='product-slide-link'>
+                    <Link to={'/Detail'} className='product-slide-link'>
                         <div className="product-img-box">
                             <img src="https://img-cf.kurly.com/cdn-cgi/image/width=400,format=auto/shop/data/goods/1648102709234l0.jpg" alt="recommend product"></img>
                             <button className="product-cart-btn">

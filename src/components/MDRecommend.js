@@ -2,6 +2,7 @@ import React from "react";
 import './MDRecommend.css';
 import {Link} from 'react-router-dom';
 import Recommend from "./Recommend";
+import ProductList from "./ProductList";
 
 function MDRecommend() {
     return(
@@ -77,14 +78,10 @@ function MDRecommend() {
                 </ul>
             </div>
             <div className="md-recommend-product">
-                <Recommend></Recommend>
+                <ProductList></ProductList>
             </div>
             <div className="md-recommend-view-all">
-                <Link to={'/'} className='md-recommend-view-all-link'>
-                    <button className="md-recommend-view-all-btn">
-                        건강식품 전체보기
-                    </button>
-                </Link>
+                <span>전체보기</span>                
             </div>
         </div>
     )

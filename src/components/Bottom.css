@@ -1,0 +1,115 @@
+.bottom {
+    padding-top: 29px;
+    border-top: 1px solid rgb(247, 247, 247);
+    width: 1050px;
+    margin: 0px auto;
+    padding-left: 60px;
+}
+
+.kurlyCs {
+    box-sizing: box;
+    margin: 0;
+}
+
+.kurlyInfo {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    overflow: hidden;
+    padding-bottom: 67px;
+}
+
+.kurlyInfo h2 {
+    padding-bottom: px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.strongStr {
+    display: block;
+    padding-bottom: 20px;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.csBtn {
+    display: flex;
+    margin-bottom: 38px;
+}
+
+.csBtn button {
+    display: block;
+    width: 140px;
+    height: 40px;
+    border: 1px solid rgb(226, 226, 226);
+    border-radius: 3px;
+    line-height: 39px;
+    text-align: center;
+    margin-right: 8px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.noneMemberCs {
+    font-size: 12px;
+    line-height: 18px;
+    color: rgb(153, 153, 153);
+}
+
+.noneMemberCs a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgb(153, 153, 153);
+}
+
+.aboutKurly {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-left: 14px;
+}
+
+.aboutKurlyList {
+    display: flex;
+    width: 100%;
+    padding-bottom: 15px;
+    padding-inline-start: 40px;
+}
+
+.aboutKurlyList li {
+    list-style-type: none;
+    margin-right: 14px;
+}
+
+.aboutKurlyList a {
+    font-size: 14px;
+    color: #333;
+    text-decoration: none;
+}
+
+.aboutKurlyInfo {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 40px;
+    padding-bottom: 8px;
+    color: rgb(153, 153, 153);
+}
+
+.aboutKurlyInfo a {
+    color: #5f0080;
+    text-decoration: none;
+}
+
+.sns img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.sns a {
+    text-decoration: none;
+}

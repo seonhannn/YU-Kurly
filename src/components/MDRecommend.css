@@ -44,6 +44,15 @@
     color: rgb(95, 0, 128);
 }
 
-.md-recommend-product {
-    margin: 0px;
+.md-recommend-view-all {
+    width: 516px;
+    height: 56px;
+    border-radius: 3px;
+    border: 1px solid rgb(227, 227, 227);
+    cursor: pointer;
+    margin: 0px auto;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
 }
